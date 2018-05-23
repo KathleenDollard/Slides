@@ -1,0 +1,11 @@
+database mapping is wrong
+viewmodel mapping is wrong
+data itself is wrong
+html template is wrong
+record has no firstname in the database
+foreground color = background color
+firstname field is hidden in css
+password manager is messing with the field
+javascript error caused the field not to render
+client side mapping is wrong
+
