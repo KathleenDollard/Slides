@@ -1,0 +1,15 @@
+  Currently in .NET Framework, why move to .NET Core
+x Plans for support for Visual Basic 
+x WebForms in .NET Core
+x How much longer will WPF be a good idea
+  Notable companies using .NET Core in the Enterprise
+      Take back as a blog post idea
+x What's most exciting to me in .NET Core 3
+x What's the RoadMap beyond .NET Core 3
+x When should you not go to .NET Core
+- Roadmap for Windows
+x What will happen with the .NET Framework 
+x Migration path for WinForms applications
+x How do you become an MVP
+  I'm going to tell you about .NET Standard
+  Are our version numbers confusing? 
